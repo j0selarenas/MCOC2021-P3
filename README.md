@@ -14,28 +14,28 @@
 A continuación, en las Figuras 1 a 4, se presentan los resultados obtenidos al correr el código ```p3e2.py```. Para las Figuras 2 a 4, el camino óptimo se ve representado por las líneas rojas, y el tiempo en recorrer dicho camino se encuentra en el título de cada figura.
 
 <p align="center">
-  <img src="https://github.com/j0selarenas/MCOC2021-P3-Grupo04/blob/main/Figuras%20Entrega%202/fig1.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P3/blob/main/Figuras%20Entrega%202/fig1.png">
   <br><br>
   <b>Figura 1: Mapa de Ciudades.</b><br>
   <br><br>
  </p>
  
   <p align="center">
-  <img src="https://github.com/j0selarenas/MCOC2021-P3-Grupo04/blob/main/Figuras%20Entrega%202/fig2.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P3/blob/main/Figuras%20Entrega%202/fig2.png">
   <br><br>
   <b>Figura 2: Camino Óptimo de 0 a 9.</b><br>
   <br><br>
  </p>
  
   <p align="center">
-  <img src="https://github.com/j0selarenas/MCOC2021-P3-Grupo04/blob/main/Figuras%20Entrega%202/fig3.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P3/blob/main/Figuras%20Entrega%202/fig3.png">
   <br><br>
   <b>Figura 3: Camino Óptimo de 4 a 5.</b><br>
   <br><br>
  </p>
  
   <p align="center">
-  <img src="https://github.com/j0selarenas/MCOC2021-P3-Grupo04/blob/main/Figuras%20Entrega%202/fig4.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P3/blob/main/Figuras%20Entrega%202/fig4.png">
   <br><br>
   <b>Figura 4: Camino Óptimo de 0 a 4.</b><br>
   <br><br>
@@ -70,21 +70,21 @@ Las calles que no son pintadas son las siguientes (en Santiago, Chile):
 _Obs: existen calles que contienen más de un tipo de calle, por ejemplo, "[footway, steps]"._
 
   <p align="center">
-  <img src="https://github.com/j0selarenas/MCOC2021-P3-Grupo04/blob/main/Figuras%20Entrega%203/fig_larenas.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P3/blob/main/Figuras%20Entrega%203/fig_larenas.png">
   <br><br>
   <b>Figura 5: Mapa de zonas para Larenas.</b><br>
   <br><br>
  </p>
 
    <p align="center">
-  <img src="https://github.com/j0selarenas/MCOC2021-P3-Grupo04/blob/main/Figuras%20Entrega%203/p3e3_Dussaillant.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P3/blob/main/Figuras%20Entrega%203/p3e3_Dussaillant.png">
   <br><br>
   <b>Figura 6: Mapa de zonas para Dussaillant.</b><br>
   <br><br>
  </p>
 
    <p align="center">
-  <img src="https://github.com/j0selarenas/MCOC2021-P3-Grupo04/blob/main/Figuras%20Entrega%203/fig_simon.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P3/blob/main/Figuras%20Entrega%203/fig_simon.png">
   <br><br>
   <b>Figura 7: Mapa de zonas para Simón.</b><br>
   <br><br>
@@ -128,21 +128,21 @@ Analizando estas líneas de código, se puede notar que se utilizan distintos in
 Finalmente, se procede a graficar los resultados obtenidos, dichos resultados se pueden ver a continuación en las Figuras 8 a 10:
 
  <p align="center">
-  <img src="https://github.com/j0selarenas/MCOC2021-P3-Grupo04/blob/main/Figuras%20Entrega%204/grafo.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P3/blob/main/Figuras%20Entrega%204/grafo.png">
   <br><br>
   <b>Figura 8: Grafo del problema.</b><br>
   <br><br>
  </p>
 
    <p align="center">
-  <img src="https://github.com/j0selarenas/MCOC2021-P3-Grupo04/blob/main/Figuras%20Entrega%204/flujo.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P3/blob/main/Figuras%20Entrega%204/flujo.png">
   <br><br>
   <b>Figura 9: Flujo final establecido el equilibrio de Wardrop .</b><br>
   <br><br>
  </p>
 
    <p align="center">
-  <img src="https://github.com/j0selarenas/MCOC2021-P3-Grupo04/blob/main/Figuras%20Entrega%204/costo.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P3/blob/main/Figuras%20Entrega%204/costo.png">
   <br><br>
   <b>Figura 10: Costo de las rutas.</b><br>
   <br><br>
@@ -151,7 +151,7 @@ Finalmente, se procede a graficar los resultados obtenidos, dichos resultados se
 A partir de los resultados obtenidos, se obtiene la siguiente tabla resumen:
 
    <p align="center">
-  <img src="https://github.com/j0selarenas/MCOC2021-P3-Grupo04/blob/main/Figuras%20Entrega%204/Tabla%20Resumen.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P3/blob/main/Figuras%20Entrega%204/Tabla%20Resumen.png">
   <br><br>
   <b>Figura 11: Tabla resumen.</b><br>
   <br><br>
@@ -183,7 +183,7 @@ Las zonas fueron seleccionadas según los siguientes criterios (Estos criterios 
 Estas zonas se pueden observar a continuación, en la Figura 12:
 
    <p align="center">
-  <img src="https://github.com/j0selarenas/MCOC2021-P3-Grupo04/blob/main/Entrega%205/fig_entrega_5.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P3/blob/main/Entrega%205/fig_entrega_5.png">
   <br><br>
   <b>Figura 12: Zonas seleccionadas.</b><br>
   <br><br>
@@ -208,7 +208,7 @@ En el código ```obtenerDatos.py```, se puso además, que las zonas con una dema
 Estas zonas se pueden observar a continuación, en la Figura 13:
 
    <p align="center">
-  <img src="https://github.com/j0selarenas/MCOC2021-P3-Grupo04/blob/main/Entrega%205/fig_entrega_5_mayor_flujo.png">
+  <img src="https://github.com/j0selarenas/MCOC2021-P3/blob/main/Entrega%205/fig_entrega_5_mayor_flujo.png">
   <br><br>
   <b>Figura 13: Zonas de mayor flujo.</b><br>
   <br><br>
